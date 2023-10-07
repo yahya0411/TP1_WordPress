@@ -1,0 +1,87 @@
+/* evit custom widget */
+
+.widget .charitize-recent-posts-wrapper>ul li {
+	display: flex;
+	background: #fafafa;
+	padding: 15px !important;
+	margin-bottom: 15px;
+	border-radius: 5px;
+	transition: all .3s;
+}
+
+.widget .charitize-recent-posts-wrapper>ul li:before {
+	display: none;
+}
+
+.widget .charitize-recent-posts-wrapper>ul li:last-child {
+	margin-bottom: 0;
+}
+
+.widget .charitize-recent-posts-wrapper>ul li ul.post-categories {
+	display: none;
+}
+
+.widget .charitize-recent-posts-wrapper>ul li a h3 {
+	margin: 0 0 10px;
+	font-size: 18px;
+	text-transform: capitalize;
+	line-height: 1;
+	display: block;
+	width: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.widget .charitize-recent-posts-wrapper>ul li .charitize-content {
+	margin: 0;
+	line-height: 1.6;
+}
+
+.widget .charitize-recent-posts-wrapper>ul li .charitize-pwt-content-wrappet {
+	max-width: 60%;
+	flex: 0 0 60%;
+}
+
+.widget .charitize-recent-posts-wrapper>ul li:hover {
+	box-shadow: 0px 2px 1px #b29a9a59;
+}
+
+.widget .charitize-recent-posts-wrapper>ul li>a {
+	flex: 0 0 40%;
+	padding-right: 20px;
+}
+
+.widget .charitize-recent-posts-wrapper>ul li .post-date {
+	line-height: 1 !important;
+	margin: 0 0 8px;
+}
+
+.widget .charitize-recent-posts-wrapper>ul li .post-date a {
+	font-size: 12px !important;
+	line-height: 1 !important;
+}
+.charitize-profile-file-card-widget {
+	text-align: center;
+	padding: 30px 20px;
+	background: #fff;
+	box-shadow: 0 0 7px #eee;
+	border-radius: 6px;
+}
+
+.charitize-profile-file-card-widget a.social-profile {
+	font-size: 28px;
+}
+
+.charitize-profile-file-card-widget img {
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+	object-fit: cover;
+}
+
+.charitize-profile-file-card-widget h3.user-name {
+	margin: 15px 0 0;
+	font-size: 20px;
+	text-transform: capitalize;
+}

@@ -1,0 +1,270 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Top News\n"
+"POT-Creation-Date: 2022-04-11 15:17+0600\n"
+"PO-Revision-Date: 2022-04-11 09:22+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bengali (Bangladesh)\n"
+"Language: bn_BD\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: _e;esc_htm;esc_attr;esc_html_e;esc_html_;__(;__\n"
+"X-Poedit-SearchPath-0: .\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.6.1; wp-5.9.3"
+
+#: admin/cls-top-news-admin.php:25 admin/cls-top-news-admin.php:26
+msgid "WP Top News"
+msgstr "ডাব্লু শীর্ষ সংবাদ"
+
+#: admin/cls-top-news-admin.php:36 admin/cls-top-news-admin.php:37
+msgid "API Settings"
+msgstr "এপিআই সেটিংস"
+
+#: admin/cls-top-news-admin.php:45
+msgid "Settings"
+msgstr "সেটিংস"
+
+#: admin/cls-top-news-admin.php:46 admin/view/general-settings.php:16
+msgid "General Settings"
+msgstr "সাধারণ সেটিংস"
+
+#: admin/cls-top-news-admin.php:54 admin/cls-top-news-admin.php:55
+#: admin/view/manage-cache.php:23
+msgid "Manage Cache"
+msgstr "পরিচালনা ক্যাশে"
+
+#: admin/cls-top-news-admin.php:63 admin/cls-top-news-admin.php:64
+msgid "Usage & Tutorial"
+msgstr "ব্যবহার ও টিউটোরিয়াল"
+
+#: admin/view/api-settings.php:19
+msgid "API Key Settings"
+msgstr "API কী সেটিংস"
+
+#: admin/view/api-settings.php:36
+msgid "API Key"
+msgstr "API কী"
+
+#: admin/view/api-settings.php:40
+msgid "Get your API key from"
+msgstr "আপনার API কী থেকে"
+
+#: admin/view/api-settings.php:40
+msgid "here"
+msgstr "এখানে"
+
+#: admin/view/api-settings.php:44 admin/view/general-settings.php:189
+msgid "Save Settings"
+msgstr "সেটিংস সংরক্ষণ করুন"
+
+#: admin/view/api-settings.php:47
+msgid "read"
+msgstr "পড়ুন"
+
+#: admin/view/general-settings.php:33
+msgid "News Source"
+msgstr "সংবাদ উত্স"
+
+#: admin/view/general-settings.php:57
+msgid "Number of News"
+msgstr "খবর সংখ্যা"
+
+#: admin/view/general-settings.php:65
+msgid "Layout"
+msgstr "বিন্যাস"
+
+#: admin/view/general-settings.php:69
+msgid "List"
+msgstr "তালিকা"
+
+#: admin/view/general-settings.php:72
+msgid "Grid"
+msgstr "গ্রিড"
+
+#: admin/view/general-settings.php:77
+msgid "For Ticker Upgrade Now!"
+msgstr "জন্য টিকার এখন আপগ্রেড!"
+
+#: admin/view/general-settings.php:84
+msgid "Ticker"
+msgstr "টিকার"
+
+#: admin/view/general-settings.php:92
+msgid "Grid View Columns"
+msgstr "গ্রিড দেখুন কলাম"
+
+#: admin/view/general-settings.php:100
+msgid "Ticker Type"
+msgstr "টিকার টাইপ"
+
+#: admin/view/general-settings.php:106 admin/view/general-settings.php:168
+#: admin/view/manage-cache.php:60
+msgid "Please Upgrade Now!"
+msgstr "আপগ্রেড করুন এখন!"
+
+#: admin/view/general-settings.php:113
+msgid "Marquee"
+msgstr "তাবু"
+
+#: admin/view/general-settings.php:116
+msgid "Horizontal"
+msgstr "অনুভূমিক"
+
+#: admin/view/general-settings.php:119
+msgid "Typewriter"
+msgstr "টাইপরাইটার"
+
+#: admin/view/general-settings.php:122
+msgid "Vertical"
+msgstr "উল্লম্ব"
+
+#: admin/view/general-settings.php:130
+msgid "Title Word Length"
+msgstr "শিরোনাম শব্দ দৈর্ঘ্য"
+
+#: admin/view/general-settings.php:138
+msgid "Description Word Length"
+msgstr "বিবরণ: শব্দ দৈর্ঘ্য"
+
+#: admin/view/general-settings.php:146
+msgid "Display Source"
+msgstr "প্রদর্শন উৎস"
+
+#: admin/view/general-settings.php:154
+msgid "Display Date"
+msgstr "প্রদর্শন আপলোড"
+
+#: admin/view/general-settings.php:162
+msgid "Enable RTL"
+msgstr "সক্রিয় RTL"
+
+#: admin/view/general-settings.php:182
+msgid "Shortcode"
+msgstr "সর্টকোড"
+
+#: admin/view/help-usage.php:14
+msgid "Available Shortcoded Options For Pro Version"
+msgstr "উপলব্ধ Shortcoded অপশন জন্য প্রো সংস্করণে"
+
+#: admin/view/help-usage.php:16
+msgid "Display Grid View"
+msgstr "প্রদর্শন গ্রিড দেখুন"
+
+#: admin/view/help-usage.php:19
+msgid "Display List View"
+msgstr "প্রদর্শন তালিকা দেখুন"
+
+#: admin/view/help-usage.php:22
+msgid "Display News Ticker"
+msgstr "সংবাদ টিকার প্রদর্শন"
+
+#: admin/view/help-usage.php:25
+msgid "Control Display Number"
+msgstr "নিয়ন্ত্রণ প্রদর্শন সংখ্যা"
+
+#: admin/view/help-usage.php:28
+msgid "Display With News Source"
+msgstr "প্রদর্শন সঙ্গে সংবাদ উত্স"
+
+#: admin/view/help-usage.php:36
+msgid "Source"
+msgstr "উৎস"
+
+#: admin/view/help-usage.php:37 admin/view/help-usage.php:69
+msgid "Name"
+msgstr "নাম"
+
+#: admin/view/help-usage.php:38
+msgid "Url"
+msgstr "Url টি"
+
+#: admin/view/help-usage.php:60
+msgid "Display With Country"
+msgstr "প্রদর্শন সঙ্গে দেশ"
+
+#: admin/view/help-usage.php:68
+msgid "Country"
+msgstr "দেশ"
+
+#: admin/view/help-usage.php:87
+msgid "Hide Description"
+msgstr "বিবরণ: আড়াল"
+
+#: admin/view/help-usage.php:90
+msgid "Control Description Length"
+msgstr "কন্ট্রোল বিবরণ: দৈর্ঘ্য"
+
+#: admin/view/manage-cache.php:28
+msgid "Cache Cleared Successfully"
+msgstr "ক্যাশে সাফ সফলভাবে"
+
+#: admin/view/manage-cache.php:38
+msgid "Please Upgrade Now to Clear Cache!"
+msgstr "দয়া করে আপগ্রেড করার জন্য এখন পরিষ্কার ক্যাশে!"
+
+#: admin/view/manage-cache.php:45
+msgid "Click Here to Clear Cache"
+msgstr "এখানে ক্লিক করুন ক্যাশে পরিষ্কার"
+
+#: admin/view/manage-cache.php:54
+msgid "Caching Time"
+msgstr "ক্যাশে সময়"
+
+#: admin/view/manage-cache.php:67
+msgid "1 Hour"
+msgstr "1 ঘন্টা"
+
+#: admin/view/manage-cache.php:70
+msgid "6 Hour"
+msgstr "6 ঘন্টা"
+
+#: admin/view/manage-cache.php:73
+msgid "12 Hour"
+msgstr "12 ঘন্টা"
+
+#: admin/view/manage-cache.php:76
+msgid "24 Hour"
+msgstr "24 ঘন্টা"
+
+#: admin/view/manage-cache.php:83
+msgid "For free API users we recommend to set caching time to 24 Hours"
+msgstr ""
+"বিনামূল্যে জন্য এপিআই ব্যবহারকারীদের আমরা সুপারিশ করতে সেট ক্যাশে সময় থেকে "
+"24 ঘন্টা"
+
+#: admin/view/manage-cache.php:84
+msgid "Save Caching Time"
+msgstr "সংরক্ষণ ক্যাশে সময়"
+
+#: freemius/templates/account/partials/site.php:337
+msgid " "
+msgstr " "
+
+#: front/view/wtn-front-view.php:63
+msgid "No Data Available"
+msgstr "কোন তথ্য পাওয়া যায়"
+
+#: lib/freemius-integrator.php:65
+#, php-format
+msgid "Hey %1$s"
+msgstr "আরে %1$s"
+
+#: lib/freemius-integrator.php:66
+#, php-format
+msgid ""
+"Please help us improve %2$s! If you opt-in, some data about your usage of "
+"%2$s will be sent to %5$s. If you skip this, that's okay! %2$s will still "
+"work just fine."
+msgstr ""
+"দয়া করে আমাদের সাহায্য উন্নত %2$s! আপনি যদি অপ্ট ইন, কিছু তথ্য সম্পর্কে "
+"আপনার usage of %2$s will be sent to %5$s. যদি আপনি এই লাফালাফি, এটা ঠিক আছে! "
+"%2$s এখনও ঠিক সূক্ষ্ম কাজ করবে."
+
+#: view/ticker.php:32
+msgid "Breaking News"
+msgstr "ব্রেকিং নিউজ"
