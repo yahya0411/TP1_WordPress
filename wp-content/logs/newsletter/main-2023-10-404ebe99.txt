@@ -1,1 +1,4 @@
 01-10-2023 20:42:45 - ERROR - 7.9.5 - 60.7 MB/512 MB - admin > cURL error 6: name lookup timed out (http_request_failed) - 
+09-10-2023 17:33:24 - ERROR - 7.9.5 - 84.4 MB/512 MB - [cron] > Could not instantiate mail function. (1) - 
+09-10-2023 17:33:25 - ERROR - 7.9.5 - 84.4 MB/512 MB - [cron] > Could not instantiate mail function. (1) - 
+09-10-2023 17:33:25 - ERROR - 7.9.5 - 84.4 MB/512 MB - [cron] > Could not instantiate mail function. (1) - 
